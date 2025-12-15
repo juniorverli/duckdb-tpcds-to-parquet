@@ -1,0 +1,16 @@
+[project]
+name = "duckdb-tpcds-to-parquet"
+version = "1.0.0"
+description = "Generate TPC-DS benchmark data using DuckDB and export to Parquet."
+authors = [
+    {name = "Junior Verli"}
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "duckdb (>=1.4.3,<2.0.0)"
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

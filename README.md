@@ -52,6 +52,7 @@ COMPRESSION = "snappy"    # Compression: snappy, gzip, zstd
 ## Author
 
 **Dionei Junior (juniorverli)**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/juniorverli)
 
 ## License

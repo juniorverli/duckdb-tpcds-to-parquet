@@ -51,7 +51,8 @@ COMPRESSION = "snappy"    # Compression: snappy, gzip, zstd
 
 ## Author
 
-Junior Verli
+**Dionei Junior (juniorverli)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/juniorverli)
 
 ## License
 
